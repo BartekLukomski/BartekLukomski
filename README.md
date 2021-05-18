@@ -9,6 +9,7 @@ Oczywiście technologie wypisane poniżej nie są jedynymi, którymi się intere
 Może teraz trochę o mnie i językach programowania / technologiach / itp. które znam (no i nie da się ukryć, że lubię):
 - Python
 - C#
+- C++
 - HTML
 - CSS
 - JavaScript
