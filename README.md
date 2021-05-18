@@ -18,7 +18,6 @@ W wolych chwilach bawię się też w:
 - Blender
 - Adobe xD
 - Adobe photoshop
-- Adobe
 
 # Kontakt
 
