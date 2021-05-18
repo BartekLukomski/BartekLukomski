@@ -1,16 +1,25 @@
-### Hi there 👋
+# O mnie
 
-<!--
-**BartekLukomski/BartekLukomski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cześć, nazywam się Bartek. Interesuję się programowaniem i informatyką.
 
-Here are some ideas to get you started:
+# Umiejętności
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Oczywiście technologie wypisane poniżej nie są jedynymi, którymi się interesuję. Cały czas staram się testować coś nowego, co mnie zaciekawi.
+
+Może teraz trochę o mnie i językach programowania / technologiach / itp. które znam (no i nie da się ukryć, że lubię):
+- Python
+- C#
+- HTML
+- CSS
+- JavaScript
+- PHP
+
+W wolych chwilach bawię się też w:
+- Blender
+- Adobe xD
+- Adobe photoshop
+- Adobe
+
+# Kontakt
+
+Jeśli chodzi o kontakt, jak na razie preferuję jedną opcję, a mianowicie Discorda (Bałtuś#2043).
