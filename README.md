@@ -13,7 +13,7 @@ Może teraz trochę o mnie i językach programowania / technologiach / itp. któ
 - HTML
 - CSS
 - JavaScript
-- PHP
+
 
 W wolych chwilach bawię się też w:
 - Blender
